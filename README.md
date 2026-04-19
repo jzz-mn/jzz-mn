@@ -5,7 +5,7 @@
     </td>
     <td>
       <h2>Jazzmin H. Perez</h2>
-      <p><code>AI & Automation Product Engineer</code> · <a href="https://kickstartmedia.com">@KickstartMedia</a> · 🇵🇭 Lipa City, Batangas</p>
+      <p><code>AI & Automation Product Engineer</code> · <a href="https://kickstartmedia.com">@KickstartMedia</a> · Lipa City, Batangas, PH🇵🇭</p>
       <p>
         <img src="https://img.shields.io/badge/MS_AI_Engineering-Quantic_|_2026–2027-e3b341?style=flat-square&logo=googlescholar&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -123,5 +123,5 @@ Currently leveling up with an MS in AI Engineering @ Quantic.
 ---
 
 <div align="center">
-  <sub>🇵🇭 Lipa City, Batangas &nbsp;·&nbsp; made with lots of ☕ and a Ferrari jersey</sub>
+  <sub>Lipa City, Batangas, PH🇵🇭&nbsp;·&nbsp; made with lots of ☕</sub>
 </div>
