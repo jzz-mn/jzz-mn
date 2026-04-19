@@ -29,10 +29,12 @@
 
 ```
 $ whoami
-
-Building AI products end-to-end — Chrome extensions, LLM pipelines, automation systems.
-Cum Laude grad. Sole engineer at an AI startup.
-Currently leveling up with an MS in AI Engineering @ Quantic.
+ 
+i'm jazzmin. i build AI stuff — extensions, pipelines, automations.
+working at a startup, taking my masters, and somehow still sane.
+i love the whole process: finding the problem, figuring it out, and shipping something that works.
+always exploring new tools, breaking things on purpose, and building them back better.
+based in the ph 🇵🇭
 ```
 
 <br/>
