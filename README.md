@@ -136,5 +136,5 @@ Apr 2026 ╌╌╌ MS in AI Engineering @ Quantic School of Business & Technolog
 ---
 
 <div align="center">
-  <sub>made with 🍌 · Lipa City, Batangas, PH</sub>
+  <sub>Lipa City, Batangas, PH</sub>
 </div>
